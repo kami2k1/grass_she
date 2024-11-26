@@ -79,7 +79,7 @@ class Kami:
 
             
            
-            data.savefile("proxy_log9.txt", proxy)
+         #   data.savefile("proxy_log9.txt", proxy)
             # if proxy not in self.listhread:
             #     self.listhread[proxy] = []
 
